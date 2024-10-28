@@ -1,4 +1,4 @@
-# Tableau Projects ![icons8-tableau-software-48]()
+# Tableau Projects ![icons8-tableau-software-48](https://github.com/keshavgangwar/Employee_Trends_Analysis--Dashboard/blob/bdc03e2f66d3328f4172260e38a111520f164ab4/Employee%20Trends%20Analysis/icons8-tableau-software-48.png)
 
 This repository contains Tableau dashboard, visualization, and data analysis projects I have created.
 
@@ -27,7 +27,7 @@ Some key visualizations include:
 - Compensation and performance analysis
 - HR KPIs and metrics
 
-![Tableau Dashboard]()
+![Tableau Dashboard](https://github.com/keshavgangwar/Employee_Trends_Analysis--Dashboard/blob/bdc03e2f66d3328f4172260e38a111520f164ab4/Employee%20Trends%20Analysis/Tableau%20Dashboard.png)
 
 ## About Tableau
 
